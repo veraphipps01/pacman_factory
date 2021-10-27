@@ -13,7 +13,8 @@ PacMen floating on the screen
 ### Run Live
  <a href="https://veraphipps01.github.io/pacman_factory/" target="_blank">Here's the Link</a>.
  
- 
+### Future Improvements
+- Reverse directions when PacMen bump into each other 
 
 ## Back Matter
 
