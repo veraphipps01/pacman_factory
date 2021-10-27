@@ -12,9 +12,8 @@ PacMen floating on the screen
 
 ### Run Live
  <a href="https://veraphipps01.github.io/pacman_factory/" target="_blank">Here's the Link</a>.
-
-### Future Improvements
-- Audio is now only playing in Firefox browser. Will fix this issue for Chrome and Safari
+ 
+ 
 
 ## Back Matter
 
