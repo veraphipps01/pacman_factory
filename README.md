@@ -2,7 +2,7 @@
 
 PacMen floating on the screen
 
-![PacMan Screenshot](https://github.com/veraphipps01/pacman_factory/blob/main/PacMan%20Screen%20Shot.png?raw=true)
+![PacMan Screenshot](PacMan_Screen.png?raw=true)
 
 ## Description
 - Create a new PacMan each time you click on 'Add PacMan' button.
